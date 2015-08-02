@@ -1,2 +1,2 @@
 ##Intermediate jQuery
-Practice exercises utilizing intermediate jQuery skills. Repo also includes class notes.
+This repo contains practice exercises utilizing intermediate jQuery skills and assocaited class notes.
